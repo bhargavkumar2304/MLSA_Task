@@ -28,7 +28,7 @@ const siteProps = {
   title: "ECE STUDENT",
   email: "anjanibhargav23@google.com",
   gitHub: "bhargavkumar@2304",
-  instagram: "mr_introvet23",
+  instagram: "",
   linkedIn: "Anjani Bhargav Kumar Kalepu",
   medium: "",
   twitter: "AnjaniKalepu",
